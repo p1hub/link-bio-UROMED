@@ -186,17 +186,16 @@ body {
   overflow: hidden;
 }
 
-.nf-card__thumb--1 {
-  background: linear-gradient(135deg, #b71c1c 0%, #e53935 50%, #ff6f60 100%);
-}
+.nf-card__thumb--1 { background: linear-gradient(135deg, #b71c1c 0%, #e53935 50%, #ff6f60 100%); }
+.nf-card__thumb--2 { background: linear-gradient(135deg, #4a148c 0%, #7b1fa2 50%, #ce93d8 100%); }
 
-.nf-card__thumb--2 {
-  background: linear-gradient(135deg, #4a148c 0%, #7b1fa2 50%, #ce93d8 100%);
-}
-
-.nf-card__thumb--3 {
-  background: linear-gradient(135deg, #0d47a1 0%, #1976d2 50%, #64b5f6 100%);
-}
+.nf-card__thumb--3 { background: linear-gradient(135deg, #0d47a1 0%, #1976d2 50%, #64b5f6 100%); }
+.nf-card__thumb--4 { background: linear-gradient(135deg, #004d40 0%, #00897b 50%, #4db6ac 100%); }
+.nf-card__thumb--5 { background: linear-gradient(135deg, #e65100 0%, #f4511e 50%, #ff8a65 100%); }
+.nf-card__thumb--6 { background: linear-gradient(135deg, #1b5e20 0%, #388e3c 50%, #81c784 100%); }
+.nf-card__thumb--7 { background: linear-gradient(135deg, #827717 0%, #f9a825 50%, #fff176 100%); }
+.nf-card__thumb--8 { background: linear-gradient(135deg, #880e4f 0%, #d81b60 50%, #f48fb1 100%); }
+.nf-card__thumb--9 { background: linear-gradient(135deg, #212121 0%, #424242 40%, #E50914 100%); }
 
 /* Play button */
 .nf-card__play {
